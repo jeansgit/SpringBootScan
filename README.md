@@ -3,3 +3,7 @@
 
 # SpringBootScan 敏感信息扫描
 会有误报的情况。
+
+# 使用
+默认python3, url.txt为待扫描的URL清单。
+python springbootscan.py 
